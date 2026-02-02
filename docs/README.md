@@ -24,3 +24,4 @@ Core documentation covers roles, checklists, risk management, and retrospective 
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [Roles & Responsibilities Checklist Template](roles-responsibilities-checklist.md)
